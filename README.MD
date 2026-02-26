@@ -1,7 +1,7 @@
-![Alt text](./imagesgithub/dev1.png)
-![Alt text](./imagesgithub/dev2.png)
-![Alt text](./imagesgithub/dev3.png)
-![Alt text](./imagesgithub/dev4.png)
+![Alt text](imagesgithub/dev1.PNG)
+![Alt text](imagesgithub/dev2.PNG)
+![Alt text](imagesgithub/dev3.PNG)
+![Alt text](imagesgithub/dev4.PNG)
 
 ## Tech Stack used for this project
 ✅Python
